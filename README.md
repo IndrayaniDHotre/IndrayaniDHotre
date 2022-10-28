@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IndrayaniDHotre
 - 👀 I’m interested in new technologies, innovation.
-- 🌱 I’m currently learning Python and Azure Cloud Services.
+- 🌱 I’m currently learning MATLAB Simulink, Python and Azure Cloud Services.
 - 💞️ I’m looking to collaborate on Fresher Level Projects
 - 📫 How to reach me: email ID: indrayanidhotre7@gmail.com
 
